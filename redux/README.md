@@ -1,0 +1,1 @@
+[Build Your Own Redux](https://blog.martindidiego.com/build-your-own-redux/) 포스팅을 보고 직접 실습해 본 예제입니다.
