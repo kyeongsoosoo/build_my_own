@@ -3,6 +3,6 @@
 
 | 라이브러리       | 구현 | 정리 |
 | ---------------- | :--: | ---- |
-| Redux            |  ✅  | ✅ |
-| Redux Saga       |  ✅  | ✅  |
-| useSelector Hook |  ✅  | ⬜️  |
+| Redux            |  ✅  | ✅   |
+| Redux Saga       |  ✅  | ✅   |
+| useSelector Hook |  ✅  | ✅   |
