@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "axios": "^0.26.1",
+    "react-query": "^3.34.19"
+  }
+}
